@@ -1,0 +1,12 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(¤¨øÜ8Ö¡ëÔƒ2J$da597d56-412f-4200-9968-e11f582d6812
+w
+java:S1481"/Remove this unused "longFormat" local variable.(€àÇùýÿÿÿÿ8Ø¡ëÔƒ2J$106306b8-3e03-4fe4-9c97-cb37da45521b
+m	java:S106"+Replace this use of System.out by a logger.(¤¨øÜ8Ø¡ëÔƒ2J$2cdaa00f-bdfc-4021-815e-585dfd23bfb0
+m	java:S106"+Replace this use of System.out by a logger.(Áýò‘8Ù¡ëÔƒ2J$0dd4b067-936a-4b21-8ed3-bb7db32371d8
+r	java:S106"+Replace this use of System.out by a logger.(ÁÙŠ£øÿÿÿÿ8Ù¡ëÔƒ2J$27b5fc5d-c5ee-412e-b105-a11ce5ee87b3
+r	java:S106"+Replace this use of System.out by a logger.(ãýñúýÿÿÿÿ8Ù¡ëÔƒ2J$2e91df6e-5cca-486f-a15a-6d726cd146f5
+m	java:S106"+Replace this use of System.out by a logger.(©ûˆ¢8Ù¡ëÔƒ2J$c95c667b-5961-4b05-9c73-f9901c94d3ee
+l	java:S106"+Replace this use of System.out by a logger.(—ÒºC8Ú¡ëÔƒ2J$eeb661f7-c977-47f0-a050-3f39bc24377a
+Œ
+java:S2175#"DA "HashMap<String, User>" cannot contain a "int" in a "String" type.(µÂ®Âþÿÿÿÿ8Ý¡ëÔƒ2J$5f49bc0f-972a-4995-97a6-cf21460cac96
